@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Damian Piętka
+- 👀 I’m interested in creating React/Django apps
+- 🌱 I’m currently learning Django Rest Framework, Redux and Typescript
+- 📫 How to reach me: damianpietka@gmail.com
