@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Damian Piętka
-- 👀 I’m interested in creating React/Django apps
+- 👀 I’m interested in creating React Native/React/Django apps
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: damianpietka@gmail.com
