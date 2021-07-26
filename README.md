@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Damian Piętka
-- 👀 I’m interested in creating React Native/React
+- 👀 I’m interested in creating React Native mobile apps
 - 🌱 I’m currently learning React Native cli
 - 📫 How to reach me: damianpietka@gmail.com
